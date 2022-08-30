@@ -31,7 +31,7 @@ hi PreCondit guifg=#d85f3d guibg=NONE
 hi Debug guifg=#d85f3d guibg=NONE
 hi SpecialChar guifg=#d85f3d guibg=NONE
 hi Conditional guifg=#d85f3d guibg=NONE
-hi Todo guifg=#d85f3d guibg=NONE
+hi Todo guifg=#68665a guibg=#f5b528
 hi Special guifg=#d85f3d guibg=NONE
 hi Label guifg=#d85f3d guibg=NONE
 hi Delimiter guifg=#d85f3d guibg=NONE
