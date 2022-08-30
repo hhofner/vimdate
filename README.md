@@ -1,2 +1,2 @@
 # vimdate
-A playful colorscheme based on Nova IDE's Playdate thene
+A playful colorscheme based on Nova IDE's Playdate theme
