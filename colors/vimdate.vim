@@ -1,8 +1,23 @@
-hi clear
+" ==============================================================================
+"   Name:        vimdate
+"   Author:      Hans Hofner <hhofner@gmail.com>
+"   Url:         https://github.com/hhofner/vimdate
+"   License:     The MIT License (MIT)
+"
+"   Playful vim color scheme based on Panic's Nova IDE Theme, Playdate. 
+"   File structure taken from Pham's One Half Dark, please see https://github.com/sonph/onehalf
+" ==============================================================================
+
+
+highlight clear
 syntax reset
-let g:colors_name = "vimdate"
+let g:colors_name="vimdate"
+let colors_name="vimdate"
 set background=dark
+
 set t_Co=256
+
+let s:grey       = { "gui": "#cbcac3", "cterm": "237" }
 hi Normal guifg=#cbcac3 ctermbg=NONE guibg=#272520 gui=NONE
 
 hi DiffText guifg=#f7ca55 guibg=NONE
